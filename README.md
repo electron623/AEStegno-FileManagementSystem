@@ -283,19 +283,3 @@ AEStegno can serve as a foundation for:
 * Enterprise file-management prototypes
 * Security-focused web application development
 
-## ⚠️ Disclaimer
-
-This project is intended for **educational, development, and cybersecurity research purposes**.
-
-Before using the system to store sensitive information in a production environment, appropriate authentication, authorization, encryption, key management, secure backend storage, and security testing should be implemented.
-
-## 📜 License
-
-This repository includes an **MIT License**.
-
-## 👨‍💻 Repository
-
-**GitHub:**
-https://github.com/electron623/AEStegno-FileManagementSystem
-
-The repository is currently a fork of `AbondentSpace1386/AEStegno-FileManagementSystem`.
